@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi Folks! I'm Ana Carolina Machado 👋🏻
 
-<!--
-**aniloracfm/aniloracfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻 About Me
+- 🎓 Bachelor's Degree in Computer Science
+- 🎲 Future Data Engineer and DataOps Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔨 I'm currently..
+- Working on Data Analysis and as an SAP/ABAP developer 
+
+## 🖤 I love ..
+- ☕ coffee 
+- 🏋🏻‍♀️sports (crossfit and running)
+- 🎞️horror and mystery film
+- 🎮games (mainly RE and RDR2)
+
+
+## Redes 👇🏻👩🏻
+
+[![Follow anilorac on LinkedIn](https://i.imgur.com/TlnAybr.png)](https://www.linkedin.com/in/acfmachado/) LinkedIn
+
+[![Follow Anilorac on Instagram](https://i.imgur.com/X4zGUpi.png)](https://www.instagram.com/anilorac_f/) Instagram
+
+[![Follow Anilorac on Twitter](http://i.imgur.com/tXSoThF.png)](https://x.com/carolinanaf) Twitter
